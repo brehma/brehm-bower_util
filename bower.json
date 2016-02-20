@@ -1,0 +1,21 @@
+{
+  "name": "brehm-tools",
+  "authors": [
+    "Adam Brehm"
+  ],
+  "description": "Various front end tools for use with bower",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "elvenware"
+  ],
+  "license": "MIT",
+  "homepage": "sq213.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
